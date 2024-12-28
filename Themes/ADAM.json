@@ -1,6 +1,6 @@
 {
 "_JSON_": true,
-"AUTHOR": "SamPandey001",
+"AUTHOR": "SoloLord201",
 "LANGUAGE": "English",
 "LANGCODE": "en",
 "STRINGS": {
@@ -10,7 +10,7 @@
 "UPDATED_LOCAL": "Fresh Updates Installed!"
 },
 "global": {
-"botName": " Powered by Black Adam",
+"botName": " Powered by Project-x",
 
 "body": "SHAZAM!",
 "greet2" : "Hey Buddy",
@@ -31,14 +31,14 @@
 "greet" : "Pal",
 "dotbody" : "I have returned..",
 "promote": "A new worthy hero arrived",
-"pmallow": "Hii,This is Black Adam\n*My Shazam seems  busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-"pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Black Adam*_",
+"pmallow": "Hii,This is Project-x\n*My Shazam seems  busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+"pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Project-x*_",
 "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by Black Adam*",
-"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by Black Adam",
-"revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by Black Adam",
+"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by Project-x",
+"revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by Project-x",
 "demote": "This is justice!",
-"antlink": "Link Detected.\n*Good Bye Worthless*",
-"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
+"antlink": "Link Detected.\n*Good Bye Punk*",
+"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Project-x*",
 "mention": " Please mention any user",
 "title": "Black Adam",
 "footer": "Black Adam",
@@ -50,11 +50,11 @@
 "couple_female": "Put everything in your soulders",
 "admin": "This command is only for Admin⚠️!",
 "botAdmin": "Please provide me Admin Role❗",
-"owner": "This command is Only for my Owner ⚠️",
-"group": "This feature is only for Group ❗",
-"private": "This feature is only for Private chats.⚠️",
-"bot": "This feature is only for Bot Number.⚠️",
-"wait": "*Processing Your Request* ✅"
+"owner": "Baka you are too weak command is Only for my Owner ⚠️",
+"group": "Baka This feature is only for Group ❗",
+"private": "Baka This feature is only for Private chats.⚠️",
+"bot": "Baka This feature is only for Bot Number.⚠️",
+"wait": "*Please hold charging..... * ✅"
 },
 "error": {
 "text": "Task Terminated"
