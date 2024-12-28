@@ -9,24 +9,24 @@ global.mongodb =
 	'mongodb+srv://Xcelsama:Xcel@xcelsama.qpklf.mongodb.net/?retryWrites=true&w=majority&appName=Xcelsama';
 global.port = process.env.PORT || 5000;
 global.email = 'sam@secktor.live';
-global.github = 'https://github.com/SamPandey001/Secktor-Md';
+global.github = 'https://github.com/Andyech/KAKASHI-XMD';
 global.location = 'Sultanpur IN';
 global.gurl = 'https://instagram.com/'; // add your username
-global.sudo = process.env.SUDO || '919628516236';
-global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md';
+global.sudo = process.env.SUDO || '256701583113';
+global.devs = '263788521064';
+global.website = 'https://github.com/Andyech/KAKASHI-XMD';
 global.THUMB_IMAGE =
 	process.env.THUMB_IMAGE ||
-	'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png';
+	'https://raw.githubusercontent.com/Kakashibot/Brandimages/main/logos/SocialLogo%201.png';
 
 module.exports = {
-	botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
-	ownername: process.env.OWNER_NAME || 'SamPandey001',
+	botname: process.env.BOT_NAME || 'KAKASHI-XMD',
+	ownername: process.env.OWNER_NAME || 'Project-x',
 	OWNER_NUMBER: process.env.OWNER_NUMBER || '',
 	sessionName: process.env.SESSION_ID || '',
-	author: (process.env.PACK_INFO?.split(';') || [])[0] || 'SamPandey001',
+	author: (process.env.PACK_INFO?.split(';') || [])[0] || 'SoloLord201',
 	auto_read_status: process.env.AUTO_READ_STATUS || false,
-	packname: (process.env.PACK_INFO?.split(';') || [])[1] || 'Secktor-Md',
+	packname: (process.env.PACK_INFO?.split(';') || [])[1] || 'KAKASHI-XMD',
 	autoreaction: process.env.AUTO_REACTION || false,
 	antibadword: process.env.ANTI_BAD_WORD || 'nobadwordsuntilyouputabadwordherelol',
 	alwaysonline: process.env.ALWAYS_ONLINE || false,
@@ -50,7 +50,7 @@ module.exports = {
 		APP_NAME: process.env.HEROKU_APP_NAME || '',
 	},
 	VERSION: process.env.VERSION || 'v.0.0.8',
-	LANG: process.env.THEME || 'SECKTOR',
+	LANG: process.env.THEME || 'KAKASHI',
 	WORKTYPE: process.env.WORKTYPE || 'public',
 };
 
